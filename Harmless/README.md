@@ -1,3 +1,5 @@
+[View Raw](https://raw.githubusercontent.com/MokiyCodes/bigread/main/Harmless/README.md)
+
 ## Ever wondered if...
 
 ... you could make a README.md giant, uneditable/undeletable from the gh web app, etc..., while keeping it innocent looking?
