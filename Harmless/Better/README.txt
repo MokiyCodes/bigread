@@ -1,6 +1,6 @@
 View Raw: https://raw.githubusercontent.com/MokiyCodes/bigread/main/Harmless/Better/README.txt
 
-This is the parent folder, but better - since Github renders every line of a txt usually, it is almost guaranteed to make page loads slow down a lot and cause many internal issues
+This is the parent folder, but better - since Github renders every line of a txt usually (when clicked on in file list), it is almost guaranteed to make page loads slow down a lot and cause many internal issues
 
 
 
